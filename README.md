@@ -1,4 +1,4 @@
-![Chess board](./chess.png)
+![Chess board](./chess.png){: width="300px" height="300px"}
 
 # Chess for Children
 
