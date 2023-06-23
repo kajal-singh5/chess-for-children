@@ -1,4 +1,4 @@
-![Chess board](./chess.png){: width="300px" height="300px"}
+<img src="./chess.png" alt="chess board screenshot" width="300" height="300">
 
 # Chess for Children
 
